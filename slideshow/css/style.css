@@ -1,3 +1,10 @@
 .container{
 	height: 500px;
 }
+
+.box {
+  height: 300px;
+  width: 600px;
+  margin: 0 auto 50px;
+  background-color: #eee;
+}
